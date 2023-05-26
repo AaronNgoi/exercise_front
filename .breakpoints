@@ -1,0 +1,18 @@
+{
+  "files": {
+    "src/utils/EquipmentUtils.jsx": [
+      {
+        "id": "49c9ab6c-9f76-4682-bcb7-30cae67fae0b",
+        "line": 1,
+        "version": 155,
+        "index": 0
+      },
+      {
+        "id": "abb73eda-a8ad-47b1-adf1-a39ec4d5912d",
+        "line": 30,
+        "version": 90,
+        "index": 1095
+      }
+    ]
+  }
+}
